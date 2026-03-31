@@ -23,7 +23,7 @@ Step	Analysis
 
 How to Run
 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/global-air-pollution-eda.git
+git clone https://github.com/mellurimurali/EDA.git
 cd global-air-pollution-eda
 2. Install dependencies
 pip install pandas numpy matplotlib seaborn notebook
@@ -36,15 +36,22 @@ Then click Run All.
 ________________________________________
 📁 Project Structure
 global-air-pollution-eda
-          ├── global_air_pollution_eda.ipynb   # Main EDA notebook
-          ├── global air pollution dataset.csv # Dataset (download from Kaggle)
-          └── README.md
+
+   ├── AQI(EDA).ipynb   # Main EDA notebook
+          
+   ├── global air pollution dataset.csv # Dataset (download from Kaggle)
+         
+   └── README.md
 ________________________________________
 
  Libraries Used
+ 
 •	pandas — data loading and manipulation
+
 •	numpy — numerical operations
+
 •	matplotlib — plotting
+
 •	seaborn — heatmaps and styled plots
 ________________________________________
  Key Findings
