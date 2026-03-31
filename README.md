@@ -35,10 +35,10 @@ jupyter notebook global_air_pollution_eda.ipynb
 Then click Run All.
 ________________________________________
 📁 Project Structure
-global-air-pollution-eda/
-│├── global_air_pollution_eda.ipynb   # Main EDA notebook
-├── global air pollution dataset.csv # Dataset (download from Kaggle)
-└── README.md
+global-air-pollution-eda
+          ├── global_air_pollution_eda.ipynb   # Main EDA notebook
+          ├── global air pollution dataset.csv # Dataset (download from Kaggle)
+          └── README.md
 ________________________________________
 
  Libraries Used
